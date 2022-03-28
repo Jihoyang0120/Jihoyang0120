@@ -13,8 +13,12 @@
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
 <br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <br> 
 
 ## Contact
 #### jyangca@connect.ust.hk
+<a href="mailto:jyangca@connect.ust.hk"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/></a>
