@@ -20,5 +20,4 @@
 <br> 
 
 ## Contact
-#### jyangca@connect.ust.hk
-<a href="mailto:jyangca@connect.ust.hk"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/></a>
+<a href="mailto:jyangca@connect.ust.hk"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/></a>: #### jyangca@connect.ust.hk
