@@ -2,7 +2,7 @@
 
 ## Profile
 
-* Hong Kong University of Science and Technology / Math-Comupter Sciecnce Major ( ~ 3Y )
+* Hong Kong University of Science and Technology / Math-Comupter Sciecnce Major (3Y)
 
 ##  Tech Stack 
 
