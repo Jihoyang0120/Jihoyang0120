@@ -16,7 +16,5 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <br> 
 
-## Mail
-
- <a href="mailto:jyangca@connect.ust.hk"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tls1gy2rms3@gmail.com"/></a>
-
+## Contact
+#### jyangca@connect.ust.hk
